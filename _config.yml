@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "korea"
-title                    : "지현테크"
+title                    : "지현테크ʕ•ﻌ•ʔ"
 title_separator          : "ʕ•ﻌ•ʔ"
 name                     : "권지현"
 description              : "데이터분석과 ML전반에 대해 다룹니다."
@@ -94,14 +94,11 @@ analytics:
 author:
   name             : "지현"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Ewha Womans Univ. \n Computer Science and Engineering"
+  bio              : "데이터분석과 ML전반에 대해 다룹니다."
   location         : "서울, 대한민국"
   email            : "ydue892@gmail.com"
   links:
-    - label: "email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: mailto:ydue892@gmail.com
-    - label: "Website"
+    - label: "Linkein"
       icon: "fas fa-fw fa-link"
       url: "http://linkedin.com/in/kwonjihyun"
     - label: "Twitter"
