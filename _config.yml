@@ -15,7 +15,7 @@ remote_theme : mmistakes/minimal-mistakes
 minimal_mistakes_skin    : "default" #"default" "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "korean"
+locale                   : "ko"
 title                    : "dev+log"
 title_separator          : "Data science and Machine-Learning"
 name                     : "지현"
