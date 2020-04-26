@@ -1,8 +1,8 @@
 # main links
 main:
-  - title: "태그"
+  - title: "Tag"
     url: /tags/
-  - title: "카테고리"
+  - title: "Category"
     url: /categories/
 #- title: "Archive"
     #url: /archive/
