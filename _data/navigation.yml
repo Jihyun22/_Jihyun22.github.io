@@ -1,8 +1,8 @@
 # main links
 main:
-  - title: "Tag"
-    url: /tags/
+ - title: "Home"
+    url: "/Home/"
   - title: "Category"
     url: /categories/
-#- title: "Archive"
-    #url: /archive/
+  - title: "Tag"
+    url: /tags/
