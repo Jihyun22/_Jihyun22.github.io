@@ -1,7 +1,7 @@
 ---
-title: #"Home"
+title: "Home"
 permalink: /Home/
-layout: Home
+layout: category
 author_profile: False
 taxonomy: Home
 ---
