@@ -3,7 +3,7 @@ main:
   - title: "Category"
     url: /categories/
   - title: "tag"
-    url: /tag/
+    url: /tags/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
