@@ -1,5 +1,5 @@
 ---
-title: "[온도추정] 기상 센서로 온도 추정하기_2편"
+title: "[데이콘 온도추정 대회] 2편-기본 아이디어"
 date: 2020-04-27
 categories: 데이콘리뷰
 toc: true
@@ -16,7 +16,7 @@ tags : 온도추정대회 LSTM DACON ML 머신러닝
 
 ---
 
-<center> <BIG>[온도추정] 기상 센서로 온도 추정하기_1편 바로가기 </BIG> </center>
+<center> <BIG>[데이콘 온도추정 대회] 1편-데이터셋 구조 </BIG> </center>
 
 ---
 
@@ -315,7 +315,7 @@ pred_out_fin = model_fit_2(test, pred_out_1, 'model_2.pkl', 'pred_out_fin.csv')
 
 ---
 
-<center> <BIG>[온도추정] 기상 센서로 온도 추정하기_3편 바로가기 </BIG> </center>
+<center> <BIG> [데이콘 온도추정 대회] 3편-탐색적 데이터 분석(EDA) </BIG> </center>
 
 ---
 
