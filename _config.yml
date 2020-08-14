@@ -262,6 +262,10 @@ compress_html:
   ignore:
     envs: development
 
+# Google Analytics
+google_analytics: UA-175444012-1
+ga_track_id: 'UA-175444012-1'            # Format: UA-xxxxxx-xx
+ga_domain: jihyun22.github.io
 
 # Defaults
 defaults:
