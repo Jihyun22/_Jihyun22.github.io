@@ -17,8 +17,6 @@ docs:
   - title: "Home"
     url : https://jihyun22.github.io
     children:
-      - title: "about"
-        url: /about/
   - title: "Data Mining"
     children:
       - title: "Dacon"
