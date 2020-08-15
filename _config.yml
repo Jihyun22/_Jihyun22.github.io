@@ -23,8 +23,8 @@ description              : "Data science and Machine-Learning"
 url                      : "https://Jihyun22.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : "/assets/images/logo2.png"
-logo                     : "/assets/images/logo.png"
+teaser                   : 
+logo                     : 
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -94,7 +94,7 @@ analytics:
 author:
   name             : "지현"
   avatar           : "/assets/images/profile.gif"
-  bio              : "Data science"
+  bio              : "Data science and Machine-Learning"
   url              : "https://Jihyun22.github.io"
   location         : "Seoul. Korea"
   email            : "ydue892@gmail.com"
@@ -219,6 +219,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-include-cache
+  - jekyll-category-pages
 
 # mimic GitHub Pages with --safe
 whitelist:
