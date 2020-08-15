@@ -1,6 +1,6 @@
 ---
 title: " "
 layout: posts
-permalink: /about_me/
+permalink: /years/
 author_profile: true
 ---
