@@ -1,6 +1,6 @@
 ---
 title: " "
-layout: archive
-permalink: /archive/
+layout: posts
+permalink: /about_me/
 author_profile: true
 ---
