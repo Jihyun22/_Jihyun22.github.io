@@ -22,7 +22,7 @@ docs:
         url: /docs/ect/
   - title: Data Mining
     children:
-      - title: "예제풀이"
+      - title: "예제풀기"
         url: /docs/example/
       - title: "프로젝트"
         url: /docs/Project/
