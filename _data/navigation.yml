@@ -15,14 +15,14 @@ docs:
   - title: Data Contest
     children:
       - title: "Kaggle"
-        url: /docs/Kaggle/
+        url: https://jihyun22.github.io/categories/#kaggle
       - title: "Dacon"
-        url: /docs/Dacon/
+        url: https://jihyun22.github.io/categories/#dacon
       - title: "ect"
-        url: /docs/ect/
+        url: https://jihyun22.github.io/categories/#ect
   - title: Data Mining
     children:
       - title: "예제풀기"
-        url: /docs/example/
+        url: https://jihyun22.github.io/categories/#examples
       - title: "프로젝트"
-        url: /docs/Project/
+        url: https://jihyun22.github.io/categories/#project
