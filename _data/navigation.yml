@@ -23,7 +23,7 @@ docs:
       - title: "category"
         url: https://jihyun22.github.io/categories
       - title: "archive"
-        url: /about/
+        url: /archive/
   - title: "Data Contest"
     children:
       - title: "Kaggle"
