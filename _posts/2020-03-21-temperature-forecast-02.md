@@ -7,6 +7,10 @@ toc_sticky: true
 toc_label: "목차"
 tags : 온도추정대회 LSTM DACON ML 머신러닝 
 ---
+<p>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=jihyun22.github.io/dacon/ect/temperature-forecast-02/" alt="visitor"/>
+</p>
+
 
 데이콘에서 20년 3-4월 진행된 [AI프렌즈 시즌1 온도 추정 경진대회](https://dacon.io/competitions/official/235584/overview/)에 대해 리뷰하며, 1편에서 다룬 내용을 바탕으로 기본 아이디어와 LSTM 모델 적용 결과를 알아보겠습니다.
 
