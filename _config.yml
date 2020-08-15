@@ -17,9 +17,9 @@ minimal_mistakes_skin    : "default" #"default" "air", "aqua", "contrast", "dark
 # Site Settings
 locale                   : "ko"
 title                    : "dev+log"
-title_separator          : "Data science and Machine-Learning"
+title_separator          : "지현 dev+log"
 name                     : "지현"
-description              : "Data science and Machine-Learning"
+description              : "지현 dev+log"
 url                      : "https://Jihyun22.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -249,9 +249,6 @@ tag_archive:
  years:
   type: liquid
   path: /years/
-about:
-  type: liquid
-  path: /about/
 # https://github.com/jekyll/jekyll-archives
 # jekyll-archives:
 #   enabled:
