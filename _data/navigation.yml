@@ -21,9 +21,9 @@ docs:
     url : https://jihyun22.github.io
     children:
       - title: "category"
-        url: https://jihyun22.github.io/categorie
+        url: https://jihyun22.github.io/categories
       - title: "archive"
-        url: /archive/
+        url: /about/
   - title: "Data Contest"
     children:
       - title: "Kaggle"
