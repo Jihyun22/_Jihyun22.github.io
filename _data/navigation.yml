@@ -1,13 +1,10 @@
 # main links
 main:
-  - title : " "
-    icon: "fas fa-fw fa-link"
+  - title : "categories"
     url: /categories/
-  - title : "fas fa-fw fa-link"
-    icon: "fas fa-fw fa-link"
+  - title : "tags"
     url: /tags/
-  - title : " "
-    icon: "fas fa-fw fa-link"
+  - title : "years"
     url: /years/
   # - title: "Sample Posts"
   #   url: /year-archive/
