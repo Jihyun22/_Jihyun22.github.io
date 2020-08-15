@@ -35,11 +35,11 @@ docs:
         url: https://jihyun22.github.io/categories/#groom
       - title: "Study"
         url: https://jihyun22.github.io/categories/#study
-  - title: "Engineering"
+  - title: "Machine Learning"
     children:
-      - title: "정보보안기사"
-        url: https://jihyun22.github.io/categories/#정보보안기사
-      - title: "정보처리기사"
-        url: https://jihyun22.github.io/categories/#정보처리기사
-      - title: "빅데이터분석기사"
-        url: https://jihyun22.github.io/categories/#빅데이터분석기사
+      - title: "Scikit-Learn"
+        url: https://jihyun22.github.io/tags/#scikitlearn
+      - title: "TensorFlow"
+        url: https://jihyun22.github.io/tags/#tensorFlow
+      - title: "etc."
+        url: https://jihyun22.github.io/tags/#ML
