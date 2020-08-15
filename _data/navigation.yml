@@ -22,7 +22,7 @@ docs:
         url: https://jihyun22.github.io/categories/#ect
   - title: Data Mining
     children:
-      - title: "예제풀기"
+      - title: "examples"
         url: https://jihyun22.github.io/categories/#examples
-      - title: "프로젝트"
+      - title: "Project"
         url: https://jihyun22.github.io/categories/#project
