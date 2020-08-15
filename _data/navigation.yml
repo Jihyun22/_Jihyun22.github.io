@@ -11,12 +11,18 @@ main:
   # - title: "Sitemap"
   #   url: /sitemap/
  
-post:
-  - title: Data-Mining
+docs:
+  - title: Data Contest
     children:
-      - title: "시계열데이터"
-        url: /_posts/2020-04-25-time-series-01.md
-  - title: Data-Contest
+      - title: "Kaggle"
+        url: /docs/Kaggle/
+      - title: "Dacon"
+        url: /docs/Dacon/
+      - title: "ect"
+        url: /docs/ect/
+  - title: Data Mining
     children:
-      - title: "Dacon-온도추정"
-        url: /_posts/2020-04-25-temperature-forecast-01.md
+      - title: "예제풀이"
+        url: /docs/example/
+      - title: "프로젝트"
+        url: /docs/Project/
