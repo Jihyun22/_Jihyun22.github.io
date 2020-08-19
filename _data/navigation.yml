@@ -23,9 +23,9 @@ docs:
     children:
       - title: "Dacon Contest"
         url: https://jihyun22.github.io/categories/#데이콘리뷰
-      - title: "Data Mining study"
+      - title: "Data Mining"
         url: https://jihyun22.github.io/categories/#데이터분석
-      - title: "Machine Learning study"
+      - title: "Machine Learning"
         url: https://jihyun22.github.io/categories/#mlstudy
   - title: "Algorithm"
     children:
