@@ -18,7 +18,7 @@ docs:
     url : https://jihyun22.github.io
     children:
       - title: "토막글"
-      - url: https://jihyun22.github.io/categories/#토막글
+      - url: https://jihyun22.github.io/categories/#issue
   - title: "Data Science"
     children:
       - title: "Dacon Contest"
