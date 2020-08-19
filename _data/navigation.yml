@@ -17,27 +17,21 @@ docs:
   - title: "Home"
     url : https://jihyun22.github.io
     children:
-  - title: "Data Mining"
+      - title: "토막글"
+      - url: https://jihyun22.github.io/categories/#토막글
+  - title: "Data Science"
     children:
-      - title: "Dacon"
+      - title: "Dacon Contest"
         url: https://jihyun22.github.io/categories/#데이콘리뷰
-      - title: "Kaggle"
-        url: https://jihyun22.github.io/categories/#kaggle
-      - title: "etc."
+      - title: "Data Mining study"
         url: https://jihyun22.github.io/categories/#데이터분석
+      - title: "Machine Learning study"
+        url: https://jihyun22.github.io/categories/#mlstudy
   - title: "Algorithm"
     children:
       - title: "LeetCode"
         url: https://jihyun22.github.io/categories/#leetcode
       - title: "Groom"
         url: https://jihyun22.github.io/categories/#groom
-      - title: "Study"
-        url: https://jihyun22.github.io/categories/#study
-  - title: "Machine Learning"
-    children:
-      - title: "Scikit-Learn"
-        url: https://jihyun22.github.io/tags/#scikitlearn
-      - title: "TensorFlow"
-        url: https://jihyun22.github.io/tags/#tensorFlow
-      - title: "etc."
-        url: https://jihyun22.github.io/tags/#ML
+      - title: "Algorithm Study"
+        url: https://jihyun22.github.io/categories/#alstudy
