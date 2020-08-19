@@ -14,9 +14,6 @@ main:
   #   url: /sitemap/
  
 docs:
-  - label: "Home"
-      icon: "fab fa-fw fa-github"
-      url: https://jihyun22.github.io
   - title: "Home"
     url : https://jihyun22.github.io
     children:
