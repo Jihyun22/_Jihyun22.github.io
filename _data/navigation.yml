@@ -21,7 +21,7 @@ docs:
         url: https://jihyun22.github.io/categories/#issue
   - title: "Data Science"
     children:
-      - title: "Dacon Contest"
+      - title: "Dacon"
         url: https://jihyun22.github.io/categories/#데이콘리뷰
       - title: "Data Mining"
         url: https://jihyun22.github.io/categories/#데이터분석
