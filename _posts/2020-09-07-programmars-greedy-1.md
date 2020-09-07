@@ -1,5 +1,5 @@
 ---
-title: "[programmars] 프로그래머스 탐욕법(Greedy) kit"
+title: "[programmars] 프로그래머스 탐욕법(Greedy) kit - #1"
 date: 2020-09-07
 categories: programmars
 toc: true
