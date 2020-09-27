@@ -207,8 +207,8 @@ timezone: Asia/Seoul # https://en.wikipedia.org/wiki/List_of_tz_database_time_zo
 
 encoding: 'utf-8'
 # Configure the plugin here
-category_path: "category" # <- default value
-category_layout: "category.html" # <- default value
+category_path: #"category" # <- default value
+category_layout: #"category.html" # <- default value
 
 # Plugins (previously gems:)
 plugins:
@@ -239,11 +239,11 @@ whitelist:
 #  - <base_path>/categories/my-awesome-category/index.html ~> path: /categories/
 #  - <base_path>/my-awesome-category/index.html ~> path: /
 category_archive:
-  type: liquid
-  path: /categories/
+  type: #liquid
+  path: #/categories/
 tag_archive:
-  type: liquid
-  path: /tags/
+  type: #liquid
+  path: #/tags/
 about:
   type: liquid
   path: /about/
