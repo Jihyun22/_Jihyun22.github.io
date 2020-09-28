@@ -157,14 +157,14 @@
     width: span(1 of 2); //5 10
 
     &:nth-child(2n) {
-      clear: both;
+      clear: none;
       margin-left: 1em;
     }
   }
 
   @include breakpoint($medium) {
-    margin-left: 0; /* override margin*/
-    margin-right: 0; /* override margin*/
+    margin-left: 1em; /* override margin*/
+    margin-right: 1em; /* override margin*/
     width: span(1 of 2); //3 12
 
     &:nth-child(2n) {
