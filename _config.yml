@@ -22,8 +22,8 @@ description              : "Data Science and Deep Learning"
 url                      : "https://Jihyun22.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : 
-logo                     : 
+teaser                   : "/assets/images/profile.png"
+logo                     : "/assets/images/profile.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
