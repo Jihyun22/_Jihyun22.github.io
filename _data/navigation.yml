@@ -15,23 +15,30 @@ main:
  
 docs:
   - title: "Home"
-    url : https://jihyun22.github.io
+    url: https://jihyun22.github.io
     children:
       - title: "모아보기"
-        url: https://jihyun22.github.io/tags/#series
+        url: https://jihyun22.github.io/tags
       - title: "토막글"
-        url: https://jihyun22.github.io/tags/#issue
-  - title: "Study"
+        url: https://jihyun22.github.io/tags/#issues
+        
+  - title: "Data Science"
     children:
-      - title: "Data Mining"
+      - title: "Data Analysis"
         url: https://jihyun22.github.io/tags/#datastudy
+      - title: "Applied Statistics"
+        url: https://jihyun22.github.io/tags/#statistics
       - title: "Deep Learning"
         url: https://jihyun22.github.io/tags/#dl
-      - title: "Algorithm"
-        url: https://jihyun22.github.io/tags/#algorithm
-  - title: "Data Contest"
+      
+  - title: "Contest"
     children:
       - title: "Dacon"
         url: https://jihyun22.github.io/tags/#dacon
       - title: "Kaggle"
         url: https://jihyun22.github.io/tags/#kaggle
+        
+  - title: "Algorithm"
+    children:
+      - title: "for coding test"
+        url: https://jihyun22.github.io/tags/#algorithm
