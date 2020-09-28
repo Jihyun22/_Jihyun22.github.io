@@ -1,11 +1,11 @@
 # main links
 main:
-  - title : "categories"
+  - title : "fab fa-fw fa-list"
     url: /categories/
-  - title : "tags"
-    url: /tags/
-  - title : "years"
-    url: /years/
+ # - title : "tags"
+ #   url: /tags/
+ # - title : "years"
+ #   url: /years/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
@@ -17,21 +17,21 @@ docs:
   - title: "Home"
     url : https://jihyun22.github.io
     children:
+      - title: "모아보기"
+        url: https://jihyun22.github.io/tags/#series
       - title: "토막글"
-        url: https://jihyun22.github.io/categories/#issue
-  - title: "Data Science"
+        url: https://jihyun22.github.io/tags/#issue
+  - title: "Study"
+    children:
+      - title: "Data Mining"
+        url: https://jihyun22.github.io/tags/#datastudy
+      - title: "Deep Learning"
+        url: https://jihyun22.github.io/tags/#dl
+      - title: "Algorithm"
+        url: https://jihyun22.github.io/tags/#algorithm
+  - title: "Data Contest"
     children:
       - title: "Dacon"
-        url: https://jihyun22.github.io/categories/#데이콘리뷰
-      - title: "Data Mining"
-        url: https://jihyun22.github.io/categories/#데이터분석
-      - title: "Machine Learning"
-        url: https://jihyun22.github.io/categories/#mlstudy
-  - title: "Algorithm"
-    children:
-      - title: "LeetCode"
-        url: https://jihyun22.github.io/categories/#leetcode
-      - title: "Programmars"
-        url: https://jihyun22.github.io/categories/#programmars
-      - title: "Algorithm Study"
-        url: https://jihyun22.github.io/categories/#alstudy
+        url: https://jihyun22.github.io/tags/#dacon
+      - title: "Kaggle"
+        url: https://jihyun22.github.io/tags/#kaggle
