@@ -93,7 +93,7 @@ analytics:
 author:
   name             : "지현"
   avatar           : "/assets/images/profile.png"
-  bio              : "Data Science and Deep Learning"
+  bio              : #"Data Science and Deep Learning"
   home             : "https://Jihyun22.github.io"
   email            : "jih020202@gmail.com"
   links:
