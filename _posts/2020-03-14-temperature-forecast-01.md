@@ -6,6 +6,8 @@ toc: true
 toc_sticky: true
 toc_label: "목차"
 tags : data dacon contest
+header:
+  teaser: "https://github.com/Jihyun22/Jihyun22.github.io/blob/master/_posts/images/2020-04-27-temperature-forecast/1.JPG?raw=true"
 ---
 <p>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=jihyun22.github.io/dacon/ect/temperature-forecast-01/" alt="visitor"/>
