@@ -35,6 +35,7 @@ docs:
         url: https://jihyun22.github.io/tags/#cs231n
       
   - title: "Contest"
+    url: https://jihyun22.github.io/tags/#contest
     children:
       - title: "Dacon"
         url: https://jihyun22.github.io/tags/#dacon
