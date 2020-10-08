@@ -289,6 +289,7 @@ Expected Improvement는 현재까지 추정된 `f`를 바탕으로 어떤 입력
 <br/>
 
 수식으로 살펴보겠습니다.
+<br/>
 $$
 \begin{align}
 EI(x) & = \mathbb{E} [\max (f(x) - f(x^{+}), 0)] \\
@@ -308,8 +309,8 @@ Z =
 \end{cases}
 $$
 
-<center> <em> EI 계산식 </em></center>
-
+<center> <small><em> EI 계산식 </em></small></center>
+<br/>
 - Φ : 표준정규분포의 누적분포함수(CDF)
 
 - ϕ : 표준정규분포의 확률분포함수(PDF)
