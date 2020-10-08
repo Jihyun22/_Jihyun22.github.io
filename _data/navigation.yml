@@ -33,6 +33,8 @@ docs:
     children:
       - title: "Stanfoard-cs231n"
         url: https://jihyun22.github.io/tags/#cs231n
+      - title: "Auto ML"
+        url: https://jihyun22.github.io/tags/#automl
       
   - title: "Contest"
     url: https://jihyun22.github.io/tags/#contest
