@@ -5,7 +5,7 @@ categories: automl
 toc: true
 toc_sticky: true
 toc_label: "목차"
-tags : data datastudy dl
+tags : data datastudy dl automl
 related: true
 header:
   teaser: "https://github.com/Jihyun22/Jihyun22.github.io/blob/master/_posts/images/teasers/Bayesian%20Optimization.png?raw=true"
@@ -211,6 +211,7 @@ end
 
 <center><big> f(x)∼GP(μ(x),k(x,x′)) </big></center>
 
+<br/>
 위 식과 같이 평균 함수 μ와 공분산 함수 k를 사용하여 함수들에 대한 확률 분포를 표현합니다. 사진으로 각 함수의 역할을 자세히 살펴보겠습니다.
 
 ![](http://research.sualab.com/assets/images/bayesian-optimization-overview-1/bayesian-optimization-procedure-example.png)
