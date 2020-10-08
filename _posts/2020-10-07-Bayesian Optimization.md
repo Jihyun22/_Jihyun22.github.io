@@ -95,7 +95,9 @@ Auto ML 을 적용하면 학습률(learning rate), 배치 크기(batch size) 등
 
 ![](http://research.sualab.com/assets/images/bayesian-optimization-overview-1/unluck-in-manual-search-process.gif)
 
-<center> <em> 출처는 포스트 하단에 일괄 명시했습니다. </em></center>
+<center> <small> <em> 출처는 포스트 하단에 일괄 명시했습니다. </em></small></center>
+
+<br/>
 
 나아가 한번에 하나의 파라미터를 추정하는 것이 아니라, 일반적으로 한번에 여러 종류의 파라미터를 동시에 탐색하는데 이러한 경우 파라미터 간 **상호 연관 관계를 무시할 수 없기에** 더욱 복잡한 연산을 수행해야 합니다. (예. Learning rate와 L2 정규화 계수)
 
@@ -113,7 +115,9 @@ Grid Search 는 Maual Search 의 단점을 보완하여 탐색 구간 내 추정
 
 ![](http://research.sualab.com/assets/images/bayesian-optimization-overview-1/grid-search-process.gif)
 
-<center> <em> 출처는 포스트 하단에 일괄 명시했습니다. </em></center>
+<center> <small> <em> 출처는 포스트 하단에 일괄 명시했습니다. </em></small></center>
+
+<br/>
 
 물론 전체 탐색 대상 구간의 설정 방법, 간격의 길이 설정 방법 등 수동적인 요소는 남아있으나 균등하고 전역적인 탐색이 가능합니다. 그러나 추정하고자 하는 하이퍼 파라미터 개수를 늘리게 되면 탐색 연산 비용이 기하급수적으로 증가하게 됩니다. 
 
@@ -131,7 +135,9 @@ Random Search는 Grid Search와 비슷한 맥락으로 탐색 대상 구간 내 
 
 ![](http://research.sualab.com/assets/images/bayesian-optimization-overview-1/random-search-process.gif)
 
-<center> <em> 출처는 포스트 하단에 일괄 명시했습니다. </em></center>
+<center> <small> <em> 출처는 포스트 하단에 일괄 명시했습니다. </em></small></center>
+
+<br/>
 
 즉, 성능 함수의 최댓값이 예측되는 구간에 파라미터 조합을 랜덤으로 샘플링하여 최적 조합을 탐색하는 방법입니다.
 
@@ -209,7 +215,9 @@ end
 
 ![](http://research.sualab.com/assets/images/bayesian-optimization-overview-1/bayesian-optimization-procedure-example.png)
 
-<center> <em> 출처는 포스트 하단에 일괄 명시했습니다. </em></center>
+<center> <small> <em> 출처는 포스트 하단에 일괄 명시했습니다. </em></small></center>
+
+<br/>
 
 위 사진은 t=2,3,4... 에 따라 GP의 연산 과정입니다. 초록색 음영은 Acquisition Function으로 다음 입력값 x를 탐색하고, 보라색 음영과 검정색 실선은 Gaussian Processes으로 f를 추정합니다. 검정색 점선은 실제 f 값인 미지의 함수입니다.
 
@@ -268,7 +276,9 @@ Expected Improvement는 현재까지 추정된 `f`를 바탕으로 어떤 입력
 
 ![](http://research.sualab.com/assets/images/bayesian-optimization-overview-1/probability-of-improvement-in-gaussian-process-example.png)
 
-<center> <em> 출처는 포스트 하단에 일괄 명시했습니다. </em></center>
+<center> <small> <em> 출처는 포스트 하단에 일괄 명시했습니다. </em></small></center>
+
+<br/>
 
 위 그래프는 `x+` 이 계산된 `f`에 대해 **다음 후보 입력값인 `x1`, `x2`,`x3` 중 가장 유용한 값을 탐색**하는 과정입니다.
 
@@ -300,14 +310,15 @@ $$
 
 <center> <em> EI 계산식 </em></center>
 
-- - Φ : 표준정규분포의 누적분포함수(CDF)
+- Φ : 표준정규분포의 누적분포함수(CDF)
 
-- - ϕ : 표준정규분포의 확률분포함수(PDF)
+- ϕ : 표준정규분포의 확률분포함수(PDF)
 
-  - ξ : exploration과 exploitation 간의 상대적 강도를 조절해 주는 파라미터
+- ξ : exploration과 exploitation 간의 상대적 강도를 조절해 주는 파라미터
 
-  - - 클수록 exploration의 강도가 높아짐
-    - 작을수록 exploitation의 강도가 높아짐
+  - 클수록 exploration의 강도가 높아짐
+
+  - 작을수록 exploitation의 강도가 높아짐
 
 <br/>
 
