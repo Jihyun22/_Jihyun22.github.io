@@ -10803,6 +10803,11 @@ article.media .media-content .title {
   margin: 0;
   line-height: inherit;
 }
+article.article .title {
+  font-size: 2em;
+  font-weight: 700;
+  letter-spacing: -1.4px;
+}
 article.article .article-meta,
 article.article .article-tags {
   color: #7a7a7a;
