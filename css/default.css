@@ -1,4 +1,4 @@
-@import "//cdn.jsdelivr.net/npm/font-kopub@1.0/kopubdotum.min.css";
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300&display=swap");
 @-moz-keyframes spinAround {
   from {
     transform: rotate(0deg);
@@ -413,7 +413,7 @@ button,
 input,
 select,
 textarea {
-  font-family: 'KoPub Dotum', Ubuntu, Roboto, 'Open Sans', 'Microsoft YaHei', sans-serif;
+  font-family: 'Noto Sans KR', Ubuntu, Roboto, 'Open Sans', 'Microsoft YaHei', sans-serif;
 }
 code,
 pre {
@@ -1065,13 +1065,13 @@ a.has-text-grey-lightest:focus {
   font-weight: 700 !important;
 }
 .is-family-primary {
-  font-family: 'KoPub Dotum', Ubuntu, Roboto, 'Open Sans', 'Microsoft YaHei', sans-serif !important;
+  font-family: 'Noto Sans KR', Ubuntu, Roboto, 'Open Sans', 'Microsoft YaHei', sans-serif !important;
 }
 .is-family-secondary {
-  font-family: 'KoPub Dotum', Ubuntu, Roboto, 'Open Sans', 'Microsoft YaHei', sans-serif !important;
+  font-family: 'Noto Sans KR', Ubuntu, Roboto, 'Open Sans', 'Microsoft YaHei', sans-serif !important;
 }
 .is-family-sans-serif {
-  font-family: 'KoPub Dotum', Ubuntu, Roboto, 'Open Sans', 'Microsoft YaHei', sans-serif !important;
+  font-family: 'Noto Sans KR', Ubuntu, Roboto, 'Open Sans', 'Microsoft YaHei', sans-serif !important;
 }
 .is-family-monospace {
   font-family: monospace !important;
@@ -11586,7 +11586,7 @@ figure.highlight .section {
 .cc-window,
 .cc-revoke {
   font-size: 1.1rem !important;
-  font-family: 'KoPub Dotum', Ubuntu, Roboto, 'Open Sans', 'Microsoft YaHei', sans-serif !important;
+  font-family: 'Noto Sans KR', Ubuntu, Roboto, 'Open Sans', 'Microsoft YaHei', sans-serif !important;
 }
 .cc-window {
   color: #4a4a4a !important;
